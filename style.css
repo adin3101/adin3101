@@ -95,7 +95,7 @@ footer {
 }
 
 .tall {
-    min-height: 30vh;
+    min-height: 18vh;
 }
 
 @media (max-width:1300px) {
